@@ -2,4 +2,4 @@
 
 Curso de Github para desarrolladores
 
-[mi portafolio]http://miportafolio.cl
+[mi portafolio](http://miportafolio.cl)
